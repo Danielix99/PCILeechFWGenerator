@@ -27,6 +27,32 @@
 
 ![Discord](https://dcbadge.limes.pink/api/shield/429866199833247744)
 
+## 📊 Live CI Status
+
+**Last Build:** ❌ Failure | **Time:** 2025-08-12 21:25 UTC | **Version:** `dev`
+
+| Job | Status |
+|-----|--------|
+| unit-test (3.10) | ✅ Success |
+| unit-test (3.9) | ✅ Success |
+| unit-test (3.11) | ✅ Success |
+| unit-test (3.12) | ✅ Success |
+| systemverilog-validation | ✅ Success |
+| docs | ❌ Failure |
+| template-variable-validation | ⏭️ Skipped |
+| template-syntax-validation | ⏭️ Skipped |
+| import-analysis | ✅ Success |
+| tui-test (3.9) | ✅ Success |
+| integration | ❌ Failure |
+| tui-test (3.12) | ✅ Success |
+| tui-test (3.10) | ✅ Success |
+| packaging | ✅ Success |
+| tui-test (3.11) | ✅ Success |
+
+**Build Artifacts:** [Download](https://github.com/Danielix99/PCILeechFWGenerator/actions/runs/16921286778)
+
+---
+
 Generate authentic PCIe DMA firmware from real donor hardware with a single command. This tool extracts donor configurations from a local device and generates unique PCILeech FPGA bitstreams (and optionally flashes a DMA card over USB-JTAG).
 
 > [!WARNING]
