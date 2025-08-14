@@ -28,6 +28,7 @@
 ![Discord](https://dcbadge.limes.pink/api/shield/429866199833247744)
 
 
+
 ## 📊 Live CI Status
 
 **Last Build:** ❌ Failure | **Time:** 2025-08-12 21:25 UTC | **Version:** `dev`
